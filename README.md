@@ -20,4 +20,6 @@ A passionate self-taught Test Automation Engineer with convincing history experi
 
 ⚡ Skills: Java| Selenium| TestNG| Postman| Jenkins| Maven| Cucumber| Git| GitHub|AWS| Bitbucket
 
-git java jenkins mssql oracle postman selenium
+Cloud
+
+AWS	Heroku
